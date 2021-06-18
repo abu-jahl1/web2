@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 17 Jun 2021 16:17:37 at http://yousf.tk/a7.ae/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://yousf.tk/a7.ae/index.html -O1 "C:\Users\dell\Desktop\abujahl\abujahl2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:19:51	Error: 	"Not Found" (404) at link yousf.tk/a7.ae/ramadan/favicon.html (from yousf.tk/a7.ae/index.html)
+16:25:01	Error: 	"Not Found" (404) at link yousf.tk/a7.ae/itms-services://?action=download-manifest&url=https://tweakdoor.com/down/ipa/aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC92aWRlby1zdGFyLTIxNTk0MTYyMDkyODk2NS9WaWRlb19TdGFyLTIxNTk0MTYyMDkyODk2NS5pcGE/app/video+Star%2B%2B (from yousf.tk/a7.ae/iphoneapp.html)
+16:25:01	Error: 	"Not Found" (404) at link yousf.tk/a7.ae/itms-services://?action=download-manifest&url=https://app.app-valley.vip/plists/1657/install.plist (from yousf.tk/a7.ae/iphoneapp.html)
+16:25:01	Error: 	"Not Found" (404) at link yousf.tk/a7.ae/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/TikTok_lol.plist (from yousf.tk/a7.ae/iphoneapp.html)
+16:25:01	Error: 	"Not Found" (404) at link yousf.tk/a7.ae/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/SnapBreak_login.plist (from yousf.tk/a7.ae/iphoneapp.html)
+16:25:01	Error: 	"Not Found" (404) at link yousf.tk/a7.ae/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/SnapBreak2.plist (from yousf.tk/a7.ae/iphoneapp.html)
+16:25:01	Error: 	"Not Found" (404) at link yousf.tk/a7.ae/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/Unc0ver_k.plist (from yousf.tk/a7.ae/iphoneapp.html)
+16:25:01	Error: 	"Not Found" (404) at link yousf.tk/a7.ae/itms-services://?action=download-manifest&url=https://app.kurdstore.info/plist/videostarAri.php (from yousf.tk/a7.ae/iphoneapp.html)
+16:25:01	Error: 	"Not Found" (404) at link yousf.tk/a7.ae/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/Rocket_lol.plist (from yousf.tk/a7.ae/iphoneapp.html)
+16:25:01	Error: 	"Not Found" (404) at link yousf.tk/a7.ae/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/instagramPls2_lol.plist (from yousf.tk/a7.ae/iphoneapp.html)
+16:25:01	Error: 	"Not Found" (404) at link yousf.tk/a7.ae/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/Infltr_lol.plist (from yousf.tk/a7.ae/iphoneapp.html)
+16:25:01	Error: 	"Not Found" (404) at link yousf.tk/a7.ae/watch.html (from yousf.tk/a7.ae/iphoneapp.html)
+16:25:01	Error: 	"Not Found" (404) at link yousf.tk/a7.ae/img/****loon.jpg (from yousf.tk/a7.ae/appleid.html)
+16:25:01	Error: 	"Not Found" (404) at link https://moddroid.com/wp-content/uploads/2021/01/pubg-mobile-kr.png (from yousf.tk/a7.ae/androidapp.html)
+16:25:02	Error: 	"Not Found" (404) at link yousf.tk/cache.saurik.com/crystal/16x16/actions/knewstuff.png (from yousf.tk/a7.ae/mobileweb/menes.css)
+16:25:02	Error: 	"Not Found" (404) at link yousf.tk/cache.saurik.com/menes/pinstripes.png (from yousf.tk/a7.ae/mobileweb/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 25 seconds : 133 links scanned, 116 files written (14575496 bytes overall) [14382867 bytes received at 32321 bytes/sec], 710733 bytes transferred using HTTP compression in 43 files, ratio 40%, 3.6 requests per connection
+(16 errors, 0 warnings, 0 messages)
